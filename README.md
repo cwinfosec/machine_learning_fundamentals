@@ -1,5 +1,5 @@
 # machine_learning_fundamentals
- A 60 page book on machine learning techniques with Python
+ A 60 page book on machine learning techniques with Python. The examples provided have not been curated, and issues with code examples may be present.
 
 ## Forward
 
