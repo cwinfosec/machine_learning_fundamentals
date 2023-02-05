@@ -1,0 +1,7 @@
+### Multi-view learning
+
+Multi-view learning in semi-supervised learning is a technique used to learn from multiple sources of data when labeled data is scarce. It takes advantage of the fact that different types of data can provide different views of the same underlying problem. For example, if the problem is to classify images of cats and dogs, then one view of the data could be the colors of the images, while another view could be the shapes of the images. By combining these two views of the data, the model can learn more effectively than if it were only given one view.
+
+A simple use case example of multi-view learning in semi-supervised learning is a sentiment analysis task. In this task, the model is given a set of unlabeled reviews and asked to classify them as either positive or negative. To do this, the model can use two different views of the data: the text of the reviews and the sentiment of the words used in the reviews. By combining these two views, the model can learn to more accurately classify the reviews.
+
+Overall, multi-view learning in semi-supervised learning can be a powerful tool for learning from limited data. By combining multiple views of the data, the model can learn more effectively than if it were only given one view. This can be especially useful in tasks such as sentiment analysis, where labeled data is scarce but multiple views of the data can be used to gain more insight.
