@@ -1,6 +1,6 @@
 # Examples
 
-This folder contains working code snippets for various machine learning projects.
+This folder contains working code snippets for various machine learning projects from the book.
 
 ## Getting Started
 
