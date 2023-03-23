@@ -5,7 +5,7 @@ This folder contains working code snippets for various machine learning projects
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Navigate to the `Examples` folder.
+2. Navigate to the `examples` folder.
 3. Run the desired Python file to see the example in action.
 
 ## Example 1: Spam Email Detector
